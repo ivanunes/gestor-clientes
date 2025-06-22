@@ -1,0 +1,7 @@
+D:\Scripts C#\Aula03\Treino02Projeto02\bin\Debug\Treino02Projeto02.exe.config
+D:\Scripts C#\Aula03\Treino02Projeto02\bin\Debug\Treino02Projeto02.exe
+D:\Scripts C#\Aula03\Treino02Projeto02\bin\Debug\Treino02Projeto02.pdb
+D:\Scripts C#\Aula03\Treino02Projeto02\obj\Debug\Treino02Projeto02.csprojAssemblyReference.cache
+D:\Scripts C#\Aula03\Treino02Projeto02\obj\Debug\Treino02Projeto02.csproj.CoreCompileInputs.cache
+D:\Scripts C#\Aula03\Treino02Projeto02\obj\Debug\Treino02Projeto02.exe
+D:\Scripts C#\Aula03\Treino02Projeto02\obj\Debug\Treino02Projeto02.pdb
